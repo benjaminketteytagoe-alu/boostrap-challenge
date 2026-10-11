@@ -18,6 +18,7 @@ This project demonstrates mastery of Bootstrap's component system, grid layout, 
 The website features a fixed navigation bar with scroll spy, an eye-catching hero section, speaker profiles, a detailed conference schedule, an interactive registration modal, and a comprehensive footer — all fully responsive across mobile, tablet, and desktop viewports.
 
 ---
+### [Team Sheet](https://docs.google.com/spreadsheets/d/1e7G50eoz246246or2osXvK9fdezrKcYX_AawejJQemI/edit?gid=0#gid=0)
 
 ## Features
 
@@ -105,6 +106,7 @@ boostrap-challenge/
 | `index.html` | The complete single-page application containing all sections, components, and the registration modal |
 | `project-demo.webm` | The reference video demonstrating the target design to replicate |
 | `.gitignore` | Excludes unnecessary files from version control |
+| ` Team Task sheet` | [Team Sheet](https://docs.google.com/spreadsheets/d/1e7G50eoz246246or2osXvK9fdezrKcYX_AawejJQemI/edit?gid=0#gid=0)
 
 ---
 
@@ -211,12 +213,12 @@ The website is fully responsive and adapts to three main breakpoints:
 
 ## Challenge Requirements
 
-✅ **Bootstrap 5 only** — No custom CSS frameworks or external JavaScript
-✅ **CDN delivery** — Bootstrap loaded via jsDelivr CDN
-✅ **Single HTML file** — All content in one `index.html` file
-✅ **Responsive design** — Works on mobile, tablet, and desktop
-✅ **Interactive components** — Modal, scroll spy, and responsive navbar
-✅ **Replica accuracy** — Matches the design shown in `project-demo.webm`
+**Bootstrap 5 only** — No custom CSS frameworks or external JavaScript
+**CDN delivery** — Bootstrap loaded via jsDelivr CDN
+**Single HTML file** — All content in one `index.html` file
+**Responsive design** — Works on mobile, tablet, and desktop
+**Interactive components** — Modal, scroll spy, and responsive navbar
+**Replica accuracy** — Matches the design shown in `project-demo.webm`
 
 ---
 
@@ -224,7 +226,7 @@ The website is fully responsive and adapts to three main breakpoints:
 
 - **Repository**: [GitHub Repository](https://github.com/benjaminketteytagoe-alu/boostrap-challenge)
 - **Bootstrap 5 Docs**: [getbootstrap.com/docs/5.3](https://getbootstrap.com/docs/5.3)
-- **Demo Video**: See `project-demo.webm` in the repository root
+- **Instruction Video**: See `project-demo.webm` in the repository root
 
 ---
 
