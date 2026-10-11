@@ -92,10 +92,10 @@ The website features a fixed navigation bar with scroll spy, an eye-catching her
 ```text
 boostrap-challenge/
 │
-├── 📄 index.html              # Main single-page application
-├── 📖 README.md               # This documentation file
-├── 🎬 project-demo.webm       # Reference demo video
-└── 📝 .gitignore              # Git ignore rules
+├── index.html              # Main single-page application
+├── README.md               # This documentation file
+├── project-demo.webm       # Reference demo video
+└── .gitignore              # Git ignore rules
 ```
 
 ### File Descriptions
